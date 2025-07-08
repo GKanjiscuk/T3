@@ -9,6 +9,7 @@ Este projeto é apenas uma simulação no frontend utilizando componentes de fun
 - Typescript
 - HTML / CSS
 - Bootstrap
+- NodeJS - versão: v16.20.2
 
 ## Funcionalidades
 
